@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Here is my data science blog.
+Here is my data science blog. My name is Abby Wadsworth.
 
