@@ -28,4 +28,4 @@ The primary audience for "Weapons of Math Destruction" by Cathy O'Neil is anyone
 3/5 STARS - This book made me really depressed about the future of not only society as a whole, but in my personal future as a female graduating from college who struggles with mental health and is looking for a job.
 
 
-###### this review was written with the help of ChatGPT ######
+##### *this review was written with the help of ChatGPT ######
