@@ -3,7 +3,7 @@ layout: post
 title:  "Book Report"
 author: Abby Wadsworth
 description: Book review of Cathy O'Neil's book 'Weapons of Math Destruction'
-image: /assets/images/tutorial/tutorial0.png
+image: /assets/images/bookreviewcover.jpg
 ---
 
 
