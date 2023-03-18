@@ -3,7 +3,7 @@ layout: post
 title: "Web Scraping"
 author: Abby Wadsworth
 description: Downloading and cleaning data about Pokémon
-image: /assets/images/blog3a/adult.png
+image: /assets/images/blog3a/baby.jpg
 ---
 
 I remember when I was young, watching cartoons as a family with my big brother and sisters and one of the shows that was always my favorite was Pokémon. I started playing Pokémon Go recently, and I have become slightly obsessed. Because of this, I decided to look up data about different Pokémon in order to learn more as well as run analysis on the characteristics that differ from Pokémon to Pokémon.
@@ -23,4 +23,4 @@ It is so cool to actually look at data that I am passionate about. I love stats,
 I am still cleaning my dataset, since there are 649 rows with 21 different variables, but I am excited to see where this goes. I am excited to keep looking at this data set and see where it goes. Till next time, when I am going to be doing some exploratory data analysis on this data set and sharing visuals that I will be making using python.
 
 
-![Figure](https://raw.githubusercontent.com/abbywadsworth/my386blog/main/assets/images/blog3a/baby.jpg)
+![Figure](https://raw.githubusercontent.com/abbywadsworth/my386blog/main/assets/images/blog3a/adult.png)
