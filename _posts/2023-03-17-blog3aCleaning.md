@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Scraping"
+title: "Cleaning Pokémon Data"
 author: Abby Wadsworth
 description: Downloading and cleaning data about Pokémon
 image: /assets/images/blog3a/baby.jpg
