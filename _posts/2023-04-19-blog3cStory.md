@@ -226,7 +226,7 @@ Here are boxplots of the HP of the second generation Pokémon by their type.
 Above is a scatterplot of all the second generation Pokémon by their Height and Weight with the size of the dots signifying their HP.
 
 
-## Generation 3
+### Generation 3
 These are some plots only using Pokémon from the third generation.
 
 <html>
