@@ -36,6 +36,6 @@ One thing I do wonder is if the proportion of males would change depending on th
 # Conclusion
 I had so much fun exploring this Pokémon dataset. It made me realize that this is something that I enjoy and helped me feel excited about being a data scientist. Even though there is a lot to learn, I am excited to continue my journey, and I am definitely planning on playing around with this data some more!
 
-I also made an [app](https://abbywadsworth-pokemongraph-code-5mm8uq.streamlit.app/) using Streamlit with this Pokémon data if you want to check it out.
+I also made an [app](https://abbywadsworth-pokemongraph-code-5mm8uq.streamlit.app/) using Streamlit with this Pokémon data if you want to check it out and make your own scatter plots.
 
 Here is my [Github repository](https://github.com/abbywadsworth/PokemonGo) where I kept the code for this project.
